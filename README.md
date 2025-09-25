@@ -130,7 +130,7 @@ initializeAutoTriggers();
 
 ---
 
-## 🔧 API 參考
+
 
 ### 核心函數
 
